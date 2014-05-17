@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Nuggetcoin
+Comment=Nuggetcoin P2P Cryptocurrency
+Comment[fr]=Nuggetcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Nuggetcoin, eşten eşe kriptografik sanal para birimi
+Comment[es]=Nuggetcoin, una criptomoneda P2P
+Exec=/usr/bin/Nuggetcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Nuggetcoin;
+Categories=Office;

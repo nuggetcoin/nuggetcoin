@@ -1,0 +1,2 @@
+debian/bin/Nuggetcoind usr/bin
+src/Nuggetcoind usr/lib/Nuggetcoin
