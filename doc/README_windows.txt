@@ -34,7 +34,7 @@ The software automatically finds other nodes to connect to.  You can
 enable Universal Plug and Play (UPnP) with your router/firewall
 or forward port 
 
-73489 (TCP) to your computer so you can receive
+25489 (TCP) to your computer so you can receive
 incoming connections.  Nuggetcoin works without incoming connections,
 but allowing incoming connections helps the Nuggetcoin network.
 
@@ -49,6 +49,6 @@ Start up the new Nuggetcoind.
 
 
 See the documentation/wiki at the Nuggetcoin site:
-  http://Nuggetcoin.cc/
+  http://Nuggetcoin.com
 for help and more information.
 
